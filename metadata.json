@@ -1,0 +1,8 @@
+{
+  "name": "Gridscape",
+  "description": "An infinite spatial canvas for exploring interconnected concepts using AI-generated text and contextual imagery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
