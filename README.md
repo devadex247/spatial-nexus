@@ -1,20 +1,34 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# SpatialNexus 🌌
 
-# Run and deploy your AI Studio app
+> **SpatialNexus** is an infinite spatial-knowledge engine designed for mapping complex ideas using AI-generated text and contextual imagery. 
 
-This contains everything you need to run your app locally.
+Moving beyond traditional linear documents and rigid note-taking tools, SpatialNexus serves as a non-linear research platform where users can start with a core topic and dynamically expand interconnected concepts into separate, intelligent visual nodes.
 
-View your app in AI Studio: https://ai.studio/apps/bundled/gridscape
+---
 
-## Run Locally
+## ✨ Key Features
 
-**Prerequisites:**  Node.js
+* **Infinite Spatial Canvas:** Fluid pan-and-zoom navigation allowing researchers, creators, and thinkers to map large webs of thought without boundary constraints.
+* **Dual-Stream AI Pipeline:** Every node creation or expansion triggers real-time text insights paired with contextual visual imagery simultaneously.
+* **Dynamic Node Architecture:** Interconnected node management featuring automated collision avoidance and clean hierarchical organization.
+* **Interactive Exploration:** Multi-turn version control and seamless node expansion to drill down deeper into any sub-topic.
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🛠️ Tech Stack
+
+* **Frontend:** React, TypeScript, Tailwind CSS
+* **Icons:** Lucide React
+* **Animations & Transitions:** Motion
+* **AI Integration:** Google Gemini API
+
+---
+
+## 🚀 Getting Started Locally
+
+Follow these steps to set up and run SpatialNexus on your local machine (`C:/Users/user/Desktop/AI_PROJECTS/spatialnexus`):
+
+### 1. Clone the Repository
+```bash
+git clone [https://github.com/devadex247/spatial-nexus.git](https://github.com/devadex247/spatial-nexus.git)
+cd spatial-nexus
